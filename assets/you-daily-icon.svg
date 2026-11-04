@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="76" fill="#f7f6f2"/>
+<g fill="none" stroke="#171717" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter">
+<path d="M88 116H424"/>
+<path d="M96 137h188l-5 119H96z" fill="#fff"/>
+<path d="M111 153h71v48h-71z" fill="#171717" stroke-width="0"/>
+<path d="M193 157h72M193 174h72M193 191h58M110 216h154M110 233h126"/>
+<path d="M282 137l-4 119M290 145l22-8v119"/>
+<path d="M88 286H424"/>
+<path d="M105 315H407"/>
+<path d="M230 414h52"/>
+<circle cx="256" cy="414" r="24"/>
+<path d="M232 414h48M256 390c-14 13-14 35 0 48M256 390c14 13 14 35 0 48M238 398h36M238 430h36"/>
+</g>
+<text x="256" y="276" text-anchor="middle" fill="#111" font-family="Georgia, 'Times New Roman', serif" font-size="59" font-weight="bold">You Daily</text>
+<text x="256" y="354" text-anchor="middle" fill="#171717" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="3.4">YOUR WORLD. EVERY MORNING.</text>
+</svg>
