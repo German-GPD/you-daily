@@ -1,63 +1,67 @@
-# You Daily — Roadmap
+# 🗺️ You Daily — Product Roadmap
+### План развития продукта · Hoja de ruta del producto
 
-This roadmap is exploratory. Priorities may change after prototypes and user testing.
+<div align="center">
 
-## Phase 0 — Define the product
-- [x] Create the project repository
-- [x] Document the core concept
-- [ ] Define the first target user and the main daily problem
-- [ ] Decide which information sources are essential for the first prototype
-- [ ] Define privacy boundaries and data-retention rules
+**From a personal idea to a real daily newspaper.**  
+**От личной идеи — к настоящей ежедневной газете.**  
+**De una idea personal a un periódico diario real.**
 
-## Phase 1 — Digital newspaper prototype
-- [ ] Create a realistic sample edition using clearly marked demo data
-- [ ] Design a clean newspaper layout for A4
-- [ ] Support screen preview and browser printing
-- [ ] Add configurable sections and content priorities
-- [ ] Add source labels, timestamps and links to original items
+</div>
 
-**Milestone:** a useful newspaper can be generated without connecting personal accounts.
+> 🧭 Exploratory plan, not a promise of dates. / Предварительный план, не обещание сроков. / Plan orientativo, no una promesa de fechas.
 
-## Phase 2 — AI editorial pipeline
-- [ ] Ingest user-provided sample content
-- [ ] Group duplicate and related items
-- [ ] Summarize content without losing important details
-- [ ] Rank items using user-defined preferences
-- [ ] Preserve source references and distinguish facts from AI interpretation
-- [ ] Provide controls to correct, hide or regenerate items
+## 00 — 🧠 Define the product · Определение продукта · Definir el producto
+- [x] Create private repository / Создать приватный репозиторий / Crear repositorio privado
+- [x] Document the concept / Описать концепцию / Documentar el concepto
+- [x] Establish initial project policies / Подготовить основные документы / Preparar políticas iniciales
+- [ ] Define target user and core problem / Определить пользователя и его задачу / Definir usuario y necesidad
+- [ ] Select the first content sources / Выбрать первые источники / Elegir las primeras fuentes
+- [ ] Define data boundaries and retention / Определить границы обработки и хранение / Definir límites y conservación de datos
 
-**Milestone:** the system can turn a selected set of content into a coherent edition.
+## 01 — 📰 Digital newspaper prototype · Цифровой прототип · Prototipo digital
+- [ ] Sample edition with clearly labeled demo data / Пример выпуска с демонстрационными данными / Edición de muestra con datos identificados
+- [ ] Distinctive A4 layout / Выразительная вёрстка A4 / Diseño A4 distintivo
+- [ ] Responsive preview and browser printing / Адаптивный предпросмотр и печать / Vista adaptable e impresión
+- [ ] Configurable sections and priorities / Настраиваемые разделы и приоритеты / Secciones y prioridades configurables
+- [ ] Source, timestamp and original link / Источник, время и ссылка / Fuente, fecha y enlace original
 
-## Phase 3 — Account integrations
-- [ ] Research official APIs and their permission requirements
-- [ ] Start with a small number of supported services
-- [ ] Implement secure authorization and token storage
-- [ ] Allow users to disconnect sources and revoke access
-- [ ] Add data minimization, retention and deletion controls
+<sub>🎯 MILESTONE — A useful edition without connecting personal accounts.</sub>
 
-**Milestone:** users can safely connect selected sources and control what is processed.
+## 02 — 🧠 AI editorial engine · ИИ-редактор · Motor editorial con IA
+- [ ] Import user-provided content / Импорт пользовательских данных / Importar contenido del usuario
+- [ ] Group duplicates and related items / Объединять повторы и связанные материалы / Agrupar duplicados y relacionados
+- [ ] Summarize without losing context / Сводить без потери контекста / Resumir sin perder contexto
+- [ ] Rank by user preferences / Расставлять приоритеты по предпочтениям / Ordenar según preferencias
+- [ ] Link summaries to original sources / Связывать сводки с источниками / Vincular resúmenes con fuentes
+- [ ] Correct, hide or regenerate content / Исправлять, скрывать и пересоздавать материалы / Corregir, ocultar o regenerar contenido
 
-## Phase 4 — Personalization and scheduling
-- [ ] Configure interests, topics and excluded subjects
-- [ ] Add morning and evening edition schedules
-- [ ] Add a digital delivery option
-- [ ] Test relevance and avoid repetitive or low-value content
+## 03 — 🔗 Account integrations · Интеграции · Integraciones
+- [ ] Research official APIs and scopes / Изучить официальные API и разрешения / Investigar API oficiales y permisos
+- [ ] Start with a few services / Начать с нескольких сервисов / Empezar con pocos servicios
+- [ ] Secure authorization and token storage / Безопасная авторизация и хранение токенов / Autorización segura y almacenamiento de tokens
+- [ ] Disconnect sources and revoke access / Отключение источников и отзыв доступа / Desconectar fuentes y revocar acceso
+- [ ] Data deletion and retention controls / Управление удалением и хранением данных / Controles de eliminación y conservación
 
-**Milestone:** editions are reliably personalized and delivered on schedule.
+## 04 — ⏰ Personal editions · Персональные выпуски · Ediciones personalizadas
+- [ ] Interests and excluded topics / Интересы и исключённые темы / Intereses y temas excluidos
+- [ ] Morning and evening schedules / Утреннее и вечернее расписание / Horarios de mañana y tarde
+- [ ] Digital delivery / Цифровая доставка / Entrega digital
+- [ ] Reduce repetition and low-value content / Сократить повторы и лишнее / Reducir repeticiones y contenido irrelevante
 
-## Phase 5 — Printer exploration
-- [ ] Compare compact Wi-Fi printers and supported print protocols
-- [ ] Evaluate paper size, ink/thermal costs, reliability and noise
-- [ ] Test automatic printing from a local device or supported print service
-- [ ] Design a compact, pleasant physical newspaper experience
+## 05 — 🖨️ Physical newspaper · Физическая газета · Periódico físico
+- [ ] Compare compact Wi-Fi printers / Сравнить компактные Wi-Fi-принтеры / Comparar impresoras Wi-Fi compactas
+- [ ] Evaluate paper, consumables, noise and reliability / Оценить бумагу, расходники, шум и надёжность / Evaluar papel, consumibles, ruido y fiabilidad
+- [ ] Test scheduled printing / Проверить печать по расписанию / Probar impresión programada
+- [ ] Refine the paper reading experience / Улучшить чтение бумажного выпуска / Mejorar la experiencia en papel
 
-**Milestone:** a scheduled physical edition works reliably.
+## ✅ Release quality gates · Критерии готовности · Criterios de calidad
+- 🔐 Security and disconnection tested / Проверены безопасность и отключение / Seguridad y desconexión probadas
+- 🧾 Summaries traceable to sources / Сводки проверяются по источникам / Resúmenes verificables con fuentes
+- 📜 Integrations comply with provider terms / Соблюдены правила сервисов / Cumplimiento de condiciones de proveedores
+- 🖨️ Print is readable and accessible / Печать читаема и доступна / Impresión legible y accesible
+- 🎯 Testing proves the product saves time / Тесты подтверждают экономию времени / Las pruebas demuestran que ahorra tiempo
 
-## Quality gates
+---
 
-Before moving toward a public release:
-- Verify that integrations comply with provider terms and API policies.
-- Test data security and account disconnection.
-- Make AI-generated summaries traceable to their sources.
-- Test print readability and accessibility.
-- Measure whether the newspaper saves time rather than creating more noise.
+*🚀 Build thoughtfully. Validate every stage. / Разрабатывать вдумчиво. Проверять каждый этап. / Construir con criterio. Validar cada etapa.*
