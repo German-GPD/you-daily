@@ -1,0 +1,28 @@
+# 🔐 You Daily — local secrets and private data
+# EN: Never commit credentials or personal exports.
+# RU: Не добавляйте в Git пароли, токены и личные выгрузки.
+# ES: No subas credenciales ni exportaciones personales a Git.
+
+.env
+.env.*
+!.env.example
+
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+secrets/
+private/
+personal-data/
+exports/
+mail-dumps/
+message-dumps/
+
+# Local development
+node_modules/
+dist/
+build/
+.cache/
+.DS_Store
+Thumbs.db
