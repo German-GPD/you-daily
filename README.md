@@ -2,6 +2,8 @@
 
 <img src="assets/you-daily-wordmark.svg" alt="You Daily — Your world. Every morning." width="760" />
 
+<img src="assets/you-daily-icon.svg" alt="You Daily app icon" width="112" />
+
 **Your world. Every morning.**
 
 <sub>Personal AI newspaper · Персональная ИИ-газета · Periódico personal con IA</sub>
