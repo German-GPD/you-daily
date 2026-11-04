@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">You Daily app icon</title>
   <desc id="desc">A folded newspaper above the You Daily wordmark.</desc>
-  <rect width="512" height="512" rx="76" fill="#f7f6f2"/>
-  <g fill="none" stroke="#f7f6f2" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter">
+  <rect width="512" height="512" rx="76" fill="#171717"/>
+  <g fill="none" stroke="#171717" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter">
     <path d="M112 82H400"/>
     <path d="M116 112h280v138H116z" fill="#252525"/>
-    <path d="M136 132h92v65h-92z" fill="#f7f6f2" stroke="none"/>
-    <path d="M151 184l24-29 19 22 17-17 17 19" stroke="#f7f6f2" stroke-width="4"/>
+    <path d="M136 132h92v65h-92z" fill="#171717" stroke="none"/>
+    <path d="M151 184l24-29 19 22 17-17 17 19" stroke="#171717" stroke-width="4"/>
     <path d="M250 136h126M250 158h126M250 180h100M136 216h240M136 234h200"/>
     <path d="M396 112l-8 138M406 122l20-10v138"/>
     <path d="M110 270H402"/>
     <path d="M112 442H208M304 442H400"/>
   </g>
-  <text x="256" y="345" fill="#f7f6f2" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600" letter-spacing="-3">You</text>
-  <text x="256" y="421" fill="#f7f6f2" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600" letter-spacing="-3">Daily</text>
-  <g transform="translate(256 442)" fill="none" stroke="#f7f6f2" stroke-width="4">
+  <text x="256" y="345" fill="#171717" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600" letter-spacing="-3">You</text>
+  <text x="256" y="421" fill="#171717" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600" letter-spacing="-3">Daily</text>
+  <g transform="translate(256 442)" fill="none" stroke="#171717" stroke-width="4">
     <circle r="22"/><ellipse rx="10" ry="22"/><path d="M-20 0H20M-17-12H17M-17 12H17"/>
   </g>
 </svg>
