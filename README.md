@@ -70,7 +70,7 @@ You Daily находится на раннем этапе разработки. 
 4. ⏰ Персональные утренние и вечерние выпуски.
 5. 🖨️ Тестирование компактной автоматической печати.
 
-➡️ [Полный план разработки](ROADMAP.md)
+➡️ [Полный план разработки](docs/ROADMAP.md)
 
 ## 🔐 Приватность и безопасность
 
@@ -82,7 +82,7 @@ You Daily находится на раннем этапе разработки. 
 
 Репозиторий приватный. Оригинальные материалы проекта предназначены для использования правообладателем. Условия использования описаны в [LICENSE](LICENSE).
 
-- [INTELLECTUAL-PROPERTY.md](INTELLECTUAL-PROPERTY.md) — история проекта и вопросы интеллектуальной собственности.
+- [INTELLECTUAL-PROPERTY.md](docs/INTELLECTUAL-PROPERTY.md) — история проекта и вопросы интеллектуальной собственности.
 - [CONTRIBUTING.md](CONTRIBUTING.md) — правила участия.
 
 **Важно:** авторское право, товарные знаки, патенты и коммерческая тайна защищают разные объекты. Этот репозиторий не заявляет о наличии зарегистрированного патента или товарного знака. Общая идея продукта сама по себе не становится исключительной собственностью из-за приватности репозитория или текста лицензии.
@@ -151,7 +151,7 @@ You Daily is at an early development stage. The product concept and digital prot
 4. ⏰ Personalized morning and evening editions.
 5. 🖨️ Testing scheduled printing on a compact printer.
 
-➡️ [Full development roadmap](ROADMAP.md)
+➡️ [Full development roadmap](docs/ROADMAP.md)
 
 ## 🔐 Privacy & security
 
@@ -163,7 +163,7 @@ Read [SECURITY.md](SECURITY.md).
 
 This repository is private. Original project materials are reserved to their rights holder. Usage terms are described in [LICENSE](LICENSE).
 
-- [INTELLECTUAL-PROPERTY.md](INTELLECTUAL-PROPERTY.md) — project history and intellectual-property notes.
+- [INTELLECTUAL-PROPERTY.md](docs/INTELLECTUAL-PROPERTY.md) — project history and intellectual-property notes.
 - [CONTRIBUTING.md](CONTRIBUTING.md) — contribution rules.
 
 **Important:** copyright, trademarks, patents and trade secrets protect different things. This repository does not claim that a patent or trademark has been registered. A private repository or license notice does not make the general product idea exclusive.
@@ -232,7 +232,7 @@ You Daily se encuentra en una fase temprana de desarrollo. Se están definiendo 
 4. ⏰ Ediciones personalizadas por la mañana y por la tarde.
 5. 🖨️ Pruebas de impresión programada con una impresora compacta.
 
-➡️ [Hoja de ruta completa](ROADMAP.md)
+➡️ [Hoja de ruta completa](docs/ROADMAP.md)
 
 ## 🔐 Privacidad y seguridad
 
@@ -244,7 +244,7 @@ Consulta [SECURITY.md](SECURITY.md).
 
 Este repositorio es privado. Los materiales originales del proyecto están reservados a su titular. Las condiciones de uso se describen en [LICENSE](LICENSE).
 
-- [INTELLECTUAL-PROPERTY.md](INTELLECTUAL-PROPERTY.md) — historial del proyecto y notas sobre propiedad intelectual.
+- [INTELLECTUAL-PROPERTY.md](docs/INTELLECTUAL-PROPERTY.md) — historial del proyecto y notas sobre propiedad intelectual.
 - [CONTRIBUTING.md](CONTRIBUTING.md) — normas de contribución.
 
 **Importante:** los derechos de autor, las marcas, las patentes y los secretos empresariales protegen elementos diferentes. Este repositorio no afirma que exista una patente o marca registrada. Un repositorio privado o un aviso de licencia no convierte la idea general del producto en exclusiva.
