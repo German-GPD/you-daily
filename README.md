@@ -4,6 +4,8 @@
 
 <img src="assets/you-daily-icon.svg" alt="You Daily app icon" width="112" />
 
+<sub>Dark versions: [wide wordmark](assets/you-daily-wordmark-dark.svg) · [app icon](assets/you-daily-icon-dark.svg)</sub>
+
 **Your world. Every morning.**
 
 <sub>Personal AI newspaper · Персональная ИИ-газета · Periódico personal con IA</sub>
