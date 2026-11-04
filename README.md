@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗞️ You Daily
+<img src="assets/you-daily-wordmark.svg" alt="You Daily — Your world. Every morning." width="760" />
 
 **Your world. Every morning.**
 
