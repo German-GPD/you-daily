@@ -17,7 +17,6 @@ if (menuButton && navigation) {
   });
 }
 
-// Keep the mobile navigation usable when the viewport changes.
 window.addEventListener("resize", () => {
   if (window.innerWidth > 680 && navigation && menuButton) {
     navigation.classList.remove("open");
