@@ -2,19 +2,19 @@
   <title id="title">You Daily</title>
   <desc id="desc">Minimal monochrome newspaper wordmark with the tagline Your world. Every morning.</desc>
   <rect width="1200" height="430" fill="#171717"/>
-  <g fill="none" stroke="#171717" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+  <g fill="none" stroke="#f7f6f2" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
     <path d="M78 82H1122"/>
     <path d="M92 112h190v138H92z" fill="#252525"/>
-    <path d="M108 129h72v48h-72z" fill="#171717" stroke="none"/>
+    <path d="M108 129h72v48h-72z" fill="#f7f6f2" stroke="none"/>
     <path d="M121 164l18-20 16 16 12-12 13 13" stroke="#171717" stroke-width="3"/>
     <path d="M194 132h70M194 151h70M194 170h55M108 194h156M108 213h132M108 232h156"/>
     <path d="M282 112l-8 138M292 122l17-10v138"/>
     <path d="M92 270H1108"/>
     <path d="M92 344H520M680 344H1108"/>
   </g>
-  <text x="350" y="238" fill="#171717" font-family="Georgia, 'Times New Roman', serif" font-size="148" font-weight="600" letter-spacing="-7">You Daily</text>
-  <text x="600" y="316" fill="#171717" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" letter-spacing="9">YOUR WORLD. EVERY MORNING.</text>
-  <g transform="translate(600 344)" fill="none" stroke="#171717" stroke-width="4">
+  <text x="350" y="238" fill="#f7f6f2" font-family="Georgia, 'Times New Roman', serif" font-size="148" font-weight="600" letter-spacing="-7">You Daily</text>
+  <text x="600" y="316" fill="#f7f6f2" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" letter-spacing="9">YOUR WORLD. EVERY MORNING.</text>
+  <g transform="translate(600 344)" fill="none" stroke="#f7f6f2" stroke-width="4">
     <circle r="25"/><ellipse rx="11" ry="25"/><path d="M-23 0H23M-19-13H19M-19 13H19"/>
   </g>
 </svg>
